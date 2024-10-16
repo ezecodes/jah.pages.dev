@@ -111,7 +111,7 @@ export default async function Home() {
 
   return (
     <>
-      <header>
+      <header className="h-[480px] 2micro:h-[400px]  ">
         <nav className="navbar">
           <ul>
             <li>
