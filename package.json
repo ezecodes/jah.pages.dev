@@ -1,0 +1,32 @@
+{
+  "name": "Portfolio",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@react-google-maps/api": "^2.19.3",
+    "@react-spring/web": "^9.7.4",
+    "antd": "^5.20.2",
+    "next": "^14.2.5",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-icons": "^5.2.1",
+    "react-typed": "^2.0.12",
+    "react-typed.ts": "^1.0.9"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "eslint": "^8",
+    "eslint-config-next": "^0.2.4",
+    "postcss": "^8",
+    "tailwindcss": "^3.2.0",
+    "typescript": "^5"
+  }
+}
