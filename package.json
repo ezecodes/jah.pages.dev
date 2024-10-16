@@ -1,5 +1,5 @@
 {
-  "name": "Portfolio",
+  "name": "portfolio",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -18,6 +18,9 @@
     "react-icons": "^5.2.1",
     "react-typed": "^2.0.12",
     "react-typed.ts": "^1.0.9"
+  },
+  "engines": {
+    "node": ">=18.18.0"
   },
   "devDependencies": {
     "@types/node": "^20",
